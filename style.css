@@ -1,0 +1,64 @@
+html{
+    scroll-behavior: smooth;
+}
+
+h1,h2,h3{
+    font-family: Bebas Neue;
+    color: #363958;
+}
+h5{
+    font-family: roboto;
+    font-weight:bolder;
+    color: #363958;
+}
+#top-main h1 {
+    font-size: 4.7em;
+}
+section{
+    margin: 8% 0;
+}
+.image img{
+    border-radius: 15px;
+    background-color: #F0F0F0;
+}
+header{
+    background-color: #FFFBF0;
+    height: 100%;
+    
+}
+.nav-item{
+    padding: 0 1rem;
+    text-align: end;
+}
+.highlighter{
+    color: #FABE4C;
+
+}
+.buy-button{
+    height:100px;
+    background: linear-gradient(3deg, rgba(136,163,29,1) 0%, rgba(193,217,99,1) 100%);
+    padding: 15px 25px;
+    text-decoration: none;
+    color: aliceblue;
+    border-radius: 6px;
+}
+.box-small{
+    border-radius: 10px;
+}
+.offer-text {
+    bottom: 20%;
+}
+.offer-text h1{
+    font-size: 100px;
+    background-color: rgba(252, 252, 252, 0.836);
+}
+.carousel-inner{
+    background-color:#F0F0F0; 
+    border-radius: 10px;
+}
+footer{
+    background-color: rgb(199, 199, 199);
+}
+.social-icons{
+    text-align: center;
+}
